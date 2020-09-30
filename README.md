@@ -1,0 +1,1 @@
+# Gradient-descent-vs-Mini-batch-SGD
